@@ -22,3 +22,4 @@ In some filters more about 30 seconds are taken to process the image!
    l  =>  less bright filter
    s  =>  sharp filter
    i  =>  imversion filter
+   
