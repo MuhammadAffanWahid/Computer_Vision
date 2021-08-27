@@ -250,6 +250,5 @@ elif mode == 'video':
            frame = invert(frame)
 
        cv2.imshow(file_name, frame)
-       #cv2.destroyAllWindows()
 
 cv2.destroyAllWindows()
